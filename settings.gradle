@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "Kontrolinis_2"
